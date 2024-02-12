@@ -1,0 +1,6 @@
+name: johndrupal2
+recipe: pantheon
+config:
+  framework: drupal8
+  site: johndrupal2
+  id: 3817d1ca-4f14-4386-ab09-57757997b2ef

@@ -1,0 +1,8 @@
+uuid: d6f2d414-c43d-4e79-ac21-d701c02ffad5
+langcode: en
+status: true
+dependencies: {  }
+name: AllowAnyHmtl
+format: allowanyhmtl
+weight: 0
+filters: {  }

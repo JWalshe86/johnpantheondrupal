@@ -3,6 +3,7 @@ langcode: en
 status: true
 dependencies:
   config:
+    - filter.format.allowanyhmtl
     - filter.format.basic_html
   module:
     - comment
@@ -27,4 +28,5 @@ permissions:
   - 'post comments'
   - 'search content'
   - 'skip comment approval'
+  - 'use text format allowanyhmtl'
   - 'use text format basic_html'

@@ -1,0 +1,10 @@
+name: jwcustom
+type: theme
+base theme: false
+description: 'My first custom theme'
+package: custom
+version: '1.0.0'
+core_version_requirement: ^7 || ^10
+
+libraries:
+  jwcustom/global-styling

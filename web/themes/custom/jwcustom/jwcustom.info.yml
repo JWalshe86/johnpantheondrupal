@@ -1,5 +1,5 @@
 name: jwcustom
-type: module
+type: theme
 base theme: false
 description: 'My first custom theme'
 package: custom

@@ -1,0 +1,25 @@
+uuid: 03fb85e9-c731-45bb-8b15-14e1d0f0a188
+langcode: en
+status: true
+dependencies:
+  config:
+    - filter.format.allowanyhmtl
+  module:
+    - ckeditor5
+format: allowanyhmtl
+editor: ckeditor5
+settings:
+  toolbar:
+    items:
+      - heading
+      - bold
+      - italic
+  plugins:
+    ckeditor5_heading:
+      enabled_headings:
+        - heading2
+        - heading3
+        - heading4
+        - heading5
+        - heading6
+image_upload: {  }

@@ -1,0 +1,20 @@
+uuid: 71bf4580-859e-425b-9267-5a9162d72748
+langcode: en
+status: true
+dependencies:
+  theme:
+    - jwbootstrapsass
+_core:
+  default_config_hash: 1TQP4b3ZnlzvIH9bj6cpCz_SyUHdJjLQkZnHpikjjhw
+id: jwbootstrapsass_page_title
+theme: jwbootstrapsass
+region: header
+weight: 0
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

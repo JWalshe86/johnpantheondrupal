@@ -1,0 +1,23 @@
+uuid: aa95a723-96db-4530-8048-490b0ce508ab
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - jwbootstrapsass
+_core:
+  default_config_hash: F3d5hyAFunLh4PhGviJF019fHn1Z3_zy5gzsQ0tX1K0
+id: jwbootstrapsass_search
+theme: jwbootstrapsass
+region: sidebar_second
+weight: -1
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Search
+  label_display: visible
+  provider: search
+  page_id: ''
+visibility: {  }

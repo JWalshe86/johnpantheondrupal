@@ -34,3 +34,4 @@ if (file_exists($local_settings)) {
 }
 $config['system.performance']['css']['preprocess'] = FALSE;
 $config['system.performance']['js']['preprocess'] = FALSE;
+$config['system.logging']['error_level']='verbose';

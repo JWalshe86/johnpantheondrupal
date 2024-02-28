@@ -1,0 +1,31 @@
+_core:
+  default_config_hash: 71vTnk5szuOQRTsOR-S5bjCzPvkxtx_eVGMqYa_mcqc
+favicon:
+  mimetype: image/vnd.microsoft.icon
+  path: ''
+  url: /themes/jwbootstrapsass/favicon.ico
+  use_default: true
+features:
+  comment_user_picture: true
+  comment_user_verification: true
+  favicon: true
+  node_user_picture: true
+logo:
+  path: ''
+  url: null
+  use_default: true
+schemas:
+  bootstrap: 8000
+  jwbootstrapsass: 8000
+cdn_provider: custom
+cdn_theme: bootstrap
+cdn_cache_ttl_versions: -1
+cdn_cache_ttl_themes: -1
+cdn_cache_ttl_assets: -1
+cdn_cache_ttl_library: -1
+reset: 'Reset Broken Cache'
+image_responsive: 0
+button_size: btn-lg
+image_shape: img-rounded
+reset_http_request_cache: ''
+table: ''

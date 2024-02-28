@@ -1,0 +1,24 @@
+uuid: 64e23f80-9c0d-49ac-87d5-043e0fe626c4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_testyfield
+    - filter.format.allowanyhmtl
+    - node.type.page
+  module:
+    - text
+id: node.page.field_testyfield
+field_name: field_testyfield
+entity_type: node
+bundle: page
+label: testyfield
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  allowed_formats:
+    - allowanyhmtl
+field_type: text_long

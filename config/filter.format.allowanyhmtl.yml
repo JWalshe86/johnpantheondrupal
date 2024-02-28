@@ -5,4 +5,10 @@ dependencies: {  }
 name: AllowAnyHmtl
 format: allowanyhmtl
 weight: 0
-filters: {  }
+filters:
+  filter_autop:
+    id: filter_autop
+    provider: filter
+    status: true
+    weight: 0
+    settings: {  }

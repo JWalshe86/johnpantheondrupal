@@ -1,7 +1,4 @@
-body{
-    background-color: green;
-}
-
-.header img{
-    width: 100%;
-}
+@import './base/core';
+@import './components/content';
+@import './components/footer';
+@import './components/header';
